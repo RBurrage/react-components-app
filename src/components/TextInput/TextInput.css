@@ -1,0 +1,12 @@
+label, input {
+    display: block;
+}
+input {
+    background-color: #fff;
+    box-shadow: 2px 2px 5px #eee;
+    padding: 4px;
+    border: 1px solid #ccc;
+    margin-top: 4px; 
+    color: #666;
+    width: 100%;
+}
