@@ -1,3 +1,5 @@
+[![CI](https://github.com/RBurrage/react-components-app/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/RBurrage/react-components-app/actions/workflows/ci.yml)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
